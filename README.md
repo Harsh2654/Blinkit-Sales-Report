@@ -1,6 +1,5 @@
 # Blinkit-Sales-Report
-Overview
-
+📊 Overview
 This project is a Power BI dashboard designed to analyze Blinkit's sales performance using interactive visualizations. It provides insights into total sales, average sales, outlet performance, item type sales, and customer ratings to support data-driven decision-making.
 
 🔹 Key Features
@@ -13,8 +12,9 @@ Data Visualization: Uses bar charts, pie charts, and line graphs to represent sa
 Power Query & DAX Functions: Data transformation and calculations for accurate and meaningful analysis.
 
 📂 Technologies Used
-Power BI – Dashboard creation & data visualization.
+Power BI – Dashboard creation & data visualization
 
-DAX (Data Analysis Expressions) – Custom calculations and metrics.
+DAX (Data Analysis Expressions) – Custom calculations and metrics
 
 Power Query – Data cleaning and transformation
+
