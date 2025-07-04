@@ -18,3 +18,4 @@ DAX (Data Analysis Expressions) – Custom calculations and metrics
 
 Power Query – Data cleaning and transformation
 
+![image](https://github.com/user-attachments/assets/321fcb9c-e127-4297-9217-45dc5c9e325d)
